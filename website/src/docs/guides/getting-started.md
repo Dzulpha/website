@@ -1,4 +1,10 @@
----
+App version: 0.17.1 (standard, 3a100c7, 9, 2024-12-06T17:14:05Z)
+Android version: 11 (SDK 30; build RKQ1.211001.001 test-keys)
+Device brand: Redmi
+Device manufacturer: Xiaomi
+Device name: fog (fog_id)
+Device model: 220333QAG
+WebView: Android System WebView 132.0.6834.163---
 title: Getting started
 titleTemplate: Guides
 description: Essential information to help you get set up with Mihon.
